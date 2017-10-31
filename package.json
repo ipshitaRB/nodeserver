@@ -1,0 +1,19 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Simple Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipshitaRB/nodeserver.git"
+  },
+  "author": "ipshitarb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipshitaRB/nodeserver/issues"
+  },
+  "homepage": "https://github.com/ipshitaRB/nodeserver#readme"
+}
